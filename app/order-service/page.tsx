@@ -59,7 +59,7 @@ export default function OrderServicePage() {
                 </h1>
 
                 <h2 className="text-lg md:text-xl font-semibold text-gray-800 mb-2 text-center">
-                    Launch of Financial literacy and wealth creation programme
+                  AFRICAN NATIONAL YOUTH DAY 2025
                 </h2>
 
                 <p className="text-gray-600 text-sm md:text-base mb-6 text-center">
