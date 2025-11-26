@@ -33,8 +33,8 @@ export default function InvitationPage() {
           {/* Logo */}
           <div className="mb-4">
             <Image
-                src="/fmyd-logo.jpg"
-                alt="Investonair Logo"
+                src="/anyd-logo.png"
+                alt="African National Youth Day Logo"
                 width={120}
                 height={120}
                 className="mx-auto"
